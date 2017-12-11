@@ -1,6 +1,6 @@
 @echo off
 SETLOCAL EnableExtensions
-SET USER=nemo.1050ti
+SET USER=i3luefire.nemogame
 SET PASS=x
 SET GPUequihash=0 1 2 3 4 5 
 SET GPUccminer=0,1,2,3,4,5
